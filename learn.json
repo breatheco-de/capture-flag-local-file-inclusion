@@ -1,0 +1,25 @@
+{
+  "slug": "casino-lfi-dangerous-file-inclusion",
+  "title": {
+    "es": "CASINO LFI - Inclusión peligrosa en el servidor del casino",
+    "en": "CASINO LFI - Dangerous File Inclusion on Casino Server"
+  },
+  "preview": "https://github.com/4GeeksAcademy/capture-flag-local-file-inclusion/blob/main/assets/preview.png?raw=true",
+  "solution": {
+    "us":"https://github.com/4GeeksAcademy/capture-flag-sql-injection/blob/solution/SOLUTION.md",
+    "es": "https://github.com/4GeeksAcademy/capture-flag-sql-injection/blob/solution/SOLUTION.es.md"},
+  "technologies": [
+    "cybersecurity",
+    "lfi",
+    "owasp-a05-security-misconfiguration",
+    "linux",
+    "red-team"
+  ],
+  "difficulty": "intermediate",
+  "duration": 2,
+  "projectType": "capture-the-flag",
+  "description": {
+    "es": "Examina una aplicación web de un casino y explota una vulnerabilidad de inclusión de archivos locales (LFI) para acceder a contenido sensible del servidor.",
+    "en": "Analyze a casino web app and exploit a Local File Inclusion (LFI) vulnerability to access sensitive server content."
+  }
+}
