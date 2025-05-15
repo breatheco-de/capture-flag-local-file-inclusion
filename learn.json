@@ -4,10 +4,10 @@
     "es": "CASINO LFI - Inclusión peligrosa en el servidor del casino",
     "en": "CASINO LFI - Dangerous File Inclusion on Casino Server"
   },
-  "preview": "https://github.com/4GeeksAcademy/capture-flag-local-file-inclusion/blob/main/assets/preview.png?raw=true",
+  "preview": "https://github.com/breatheco-de/capture-flag-local-file-inclusion/blob/main/assets/preview.png?raw=true",
   "solution": {
-    "us":"https://github.com/4GeeksAcademy/capture-flag-sql-injection/blob/solution/SOLUTION.md",
-    "es": "https://github.com/4GeeksAcademy/capture-flag-sql-injection/blob/solution/SOLUTION.es.md"},
+    "us":"https://github.com/breatheco-de/capture-flag-sql-injection/blob/solution/SOLUTION.md",
+    "es": "https://github.com/breatheco-de/capture-flag-sql-injection/blob/solution/SOLUTION.es.md"},
   "technologies": [
     "cybersecurity",
     "lfi",
