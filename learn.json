@@ -21,5 +21,13 @@
   "description": {
     "es": "Examina una aplicación web de un casino y explota una vulnerabilidad de inclusión de archivos locales (LFI) para acceder a contenido sensible del servidor.",
     "en": "Analyze a casino web app and exploit a Local File Inclusion (LFI) vulnerability to access sensitive server content."
-  }
+  },
+  "delivery": {
+		"instructions": {
+			"us": "Paste the flag you found with format FLAG{hash}",
+			"es": "Agrega la bandera que encontraste con el formato FLAG{hash}"
+		},
+		"formats": ["flags"],
+		"quantity": 1
+	}
 }
